@@ -1,0 +1,102 @@
+body{
+    font-family:sans-serif;
+}
+main{
+    
+}
+.home-part, .product-part, .about-part{
+    padding: 50px 200px;
+}
+.nav-part{
+    background-color: ;
+}
+.nav-part img{
+    width: 400px;
+}
+.nav-part ul li a{
+    margin-left: 80px;
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+}
+section{
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 85px;
+    font-weight: bolder;
+}
+h2{
+    font-size: 55px;
+    font-weight: bold;
+}
+h4{
+    font-size: 45px;
+    font-weight: 900;
+    color: #f5c763;
+}
+h5{
+    font-size: 30px;
+    font-weight: 700;
+}
+p{
+    font-size: 23px;
+}
+.home-part{
+    background-color: #f5f2dc;
+}
+.special-content{
+    color: #e9b23b;
+}
+.buy-now-button{
+    height: 80px;
+    background-color:  #98ac3fde;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    font-size: 20px;
+}
+.product-part img{
+    height: 500px;
+    width: 480px;
+    padding: 35px 80px;
+    margin-left: 20px;
+    background-color: #f0ecec;
+    border-radius: 20px;
+}
+.woman-jacket, .man-jacket{
+    margin-top: 60px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+}
+.card-body{
+    margin: 15px 0;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+    margin-bottom: 25px;
+}
+.box img{
+    width: 100px;
+    height: 100px;
+}
+.box{
+    height: 180px;
+    width: 680px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 80px;
+}
+.about-part{
+    margin: 150px 0;
+}
+footer p{
+    padding: 0 15px;
+    font-size: 20px;
+}
